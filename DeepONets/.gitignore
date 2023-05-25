@@ -1,4 +1,4 @@
-data/*
+DeepONets/dataset/*
 *.npz
 #Draw.io metadata
 *.bkp
